@@ -1,1 +1,1 @@
-# msc_project
+# msc-project
